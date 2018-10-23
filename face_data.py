@@ -28,6 +28,7 @@ while True:
 
 	# update the frame number
 	skip += 1
+	# sorry, I am an Android Developer
 
 	for face in faces[:1]:
 		x, y, w, h = face
